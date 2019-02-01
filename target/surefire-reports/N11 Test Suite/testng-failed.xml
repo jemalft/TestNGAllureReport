@@ -5,7 +5,7 @@
     <listener class-name="utils.Listeners.TestListener"/>
     <listener class-name="utils.Listeners.AnnotationTransformer"/>
   </listeners>
-  <test name="LoginTest(failed)">
+  <test thread-count="5" verbose="0" name="LoginTest(failed)">
     <classes>
       <class name="tests.LoginTests">
         <methods>

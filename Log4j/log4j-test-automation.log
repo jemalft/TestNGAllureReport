@@ -1,0 +1,68 @@
+2019-01-30 12:51:15 INFO  Log:11 - Test is Starting...
+2019-01-30 16:49:06 INFO  Log:11 - Test is Starting...
+2019-01-30 16:52:46 INFO  Log:11 - Test is Starting...
+2019-01-30 17:06:11 INFO  Log:11 - Test is Starting...
+2019-01-30 17:06:28 INFO  Log:21 - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+2019-01-30 17:06:28 INFO  Log:21 - Opening N11 website.
+2019-01-30 17:06:37 INFO  Log:21 - Opening N11 login page.
+2019-01-30 17:06:38 INFO  Log:21 - Trying to login N11.
+2019-01-30 17:06:40 INFO  Log:21 - Verifying N11 login.
+2019-01-30 17:06:49 INFO  Log:16 - Test is Ending...
+2019-01-31 11:59:07 INFO  Log:11 - Test is Starting...
+2019-01-31 11:59:10 INFO  Log:21 - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+2019-01-31 11:59:10 INFO  Log:21 - Opening N11 website.
+2019-01-31 11:59:13 INFO  Log:21 - Opening N11 login page.
+2019-01-31 11:59:15 INFO  Log:21 - Trying to login N11.
+2019-01-31 11:59:15 ERROR NamingUtils:54 - Could not find parameter 0
+2019-01-31 11:59:15 ERROR NamingUtils:54 - Could not find parameter 1
+2019-01-31 11:59:15 ERROR NamingUtils:54 - Could not find parameter method
+2019-01-31 11:59:16 INFO  Log:21 - Verifying N11 login.
+2019-01-31 11:59:16 ERROR NamingUtils:54 - Could not find parameter 0
+2019-01-31 11:59:18 ERROR NamingUtils:54 - Could not find parameter 0
+2019-01-31 11:59:18 ERROR NamingUtils:54 - Could not find parameter 1
+2019-01-31 11:59:18 ERROR NamingUtils:54 - Could not find parameter method
+2019-01-31 11:59:19 ERROR NamingUtils:54 - Could not find parameter 0
+2019-01-31 11:59:19 ERROR NamingUtils:54 - Could not find parameter 0
+2019-01-31 11:59:22 ERROR NamingUtils:54 - Could not find parameter 0
+2019-01-31 11:59:22 ERROR NamingUtils:54 - Could not find parameter 1
+2019-01-31 11:59:22 ERROR NamingUtils:54 - Could not find parameter method
+2019-01-31 11:59:23 ERROR NamingUtils:54 - Could not find parameter 0
+2019-01-31 11:59:23 ERROR NamingUtils:54 - Could not find parameter 0
+2019-01-31 11:59:23 ERROR NamingUtils:54 - Could not find parameter 0
+2019-01-31 11:59:24 ERROR NamingUtils:54 - Could not find parameter 0
+2019-01-31 11:59:24 INFO  Log:16 - Test is Ending...
+2019-01-31 12:09:58 INFO  Log:11 - Test is Starting...
+2019-01-31 12:10:00 INFO  Log:21 - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+2019-01-31 12:10:00 INFO  Log:21 - Opening N11 website.
+2019-01-31 12:10:05 INFO  Log:21 - Opening N11 login page.
+2019-01-31 12:10:06 INFO  Log:21 - Trying to login N11.
+2019-01-31 12:10:07 INFO  Log:21 - Verifying N11 login.
+2019-01-31 12:10:15 INFO  Log:16 - Test is Ending...
+2019-01-31 12:17:55 INFO  Log:11 - Test is Starting...
+2019-01-31 12:17:58 INFO  Log:21 - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+2019-01-31 12:17:58 INFO  Log:21 - Opening N11 website.
+2019-01-31 12:18:01 INFO  Log:21 - Opening N11 login page.
+2019-01-31 12:18:02 INFO  Log:21 - Trying to login N11.
+2019-01-31 12:18:04 INFO  Log:21 - Verifying N11 login.
+2019-01-31 12:18:08 INFO  Log:16 - Test is Ending...
+2019-01-31 12:23:16 INFO  Log:11 - Test is Starting...
+2019-01-31 12:23:19 INFO  Log:21 - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+2019-01-31 12:23:19 INFO  Log:21 - Opening N11 website.
+2019-01-31 12:23:23 INFO  Log:21 - Opening N11 login page.
+2019-01-31 12:23:24 INFO  Log:21 - Trying to login N11.
+2019-01-31 12:23:25 INFO  Log:21 - Verifying N11 login.
+2019-01-31 12:23:33 INFO  Log:16 - Test is Ending...
+2019-01-31 12:27:50 INFO  Log:11 - Test is Starting...
+2019-01-31 12:27:53 INFO  Log:21 - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+2019-01-31 12:27:53 INFO  Log:21 - Opening N11 website.
+2019-01-31 12:27:56 INFO  Log:21 - Opening N11 login page.
+2019-01-31 12:27:58 INFO  Log:21 - Trying to login N11.
+2019-01-31 12:27:59 INFO  Log:21 - Verifying N11 login.
+2019-01-31 12:28:07 INFO  Log:16 - Test is Ending...
+2019-01-31 12:43:00 INFO  Log:11 - Test is Starting...
+2019-01-31 12:43:03 INFO  Log:21 - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+2019-01-31 12:43:03 INFO  Log:21 - Opening N11 website.
+2019-01-31 12:43:08 INFO  Log:21 - Opening N11 login page.
+2019-01-31 12:43:09 INFO  Log:21 - Trying to login N11.
+2019-01-31 12:43:10 INFO  Log:21 - Verifying N11 login.
+2019-01-31 12:43:18 INFO  Log:16 - Test is Ending...

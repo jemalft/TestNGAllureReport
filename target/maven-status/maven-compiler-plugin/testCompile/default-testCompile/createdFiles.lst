@@ -1,7 +1,8 @@
-utils\ExtentReports\ExtentManager.class
-utils\ExtentReports\ExtentTestManager.class
-tests\LoginTests.class
-tests\BaseTest.class
-utils\Listeners\Retry.class
-utils\Listeners\TestListener.class
-utils\Listeners\AnnotationTransformer.class
+utils/ScreenShotRobot.class
+utils/ExtentReports/ExtentManager.class
+utils/Listeners/AnnotationTransformer.class
+utils/Listeners/TestListener.class
+tests/BaseTest.class
+tests/LoginTests.class
+utils/ExtentReports/ExtentTestManager.class
+utils/Listeners/Retry.class

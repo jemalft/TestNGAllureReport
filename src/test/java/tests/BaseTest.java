@@ -27,7 +27,7 @@ public class BaseTest {
         wait = new WebDriverWait(driver,15);
 
         //Maximize Window
-        driver.manage().window().maximize();
+       // driver.manage().window().maximize();
     }
 
     @AfterClass(description = "Class Level Teardown!")

@@ -53,6 +53,13 @@
 
     </dependencies>
 
+    <mailingLists>
+        <mailingList>
+            <name>Allure Mailing List</name>
+            <post>jemalmfth@gmail.com</post>
+        </mailingList>
+    </mailingLists>
+
     <build>
         <plugins>
             <plugin>
@@ -62,6 +69,11 @@
                     <source>1.8</source>
                     <target>1.8</target>
                 </configuration>
+            </plugin>
+            <plugin>
+                <groupId>io.qameta.allure</groupId>
+                <artifactId>allure-maven</artifactId>
+                <version>2.9</version>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
